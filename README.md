@@ -1,22 +1,21 @@
-# my-awesome-code-sharing
-collection of links, resources and ideas on code sharing for typescript/javascript projects
+A collection of links, resources and ideas on code sharing for typescript/javascript projects
 
-## Table of contents
+Table of contents
+=================
  - [Developer eXperience](#Developer-eXperience)
  - [Multiple repositories](#Multiple-repositories)
  - [Monorepo](#Monorepo)
+   - [Library creation](#Library-creation)
  - [React Native](#React-Native)
 
-Developer eXperience
-====================
+## Developer eXperience
  - [npm-local-development](https://www.npmjs.com/package/npm-local-development)
  - Symlinking
  - lerna
  - yarn workspaces
  - meta
 
-Multiple repositories
-=====================
+## Multiple repositories
  - Meta
     - [Library](https://github.com/mateodelnorte/meta)
     - [npm plugin](https://github.com/mateodelnorte/meta-npm)
@@ -32,9 +31,7 @@ Multiple repositories
 ### Library creation
  - [tsdx.io](https://tsdx.io/)
 
-Monorepo
-========
-
+## Monorepo
 - [mobile+web React monorepo example](https://github.com/jlcastillo/rn-react-mobile-web-monorepo)
 
 React Native
