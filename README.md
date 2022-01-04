@@ -1,2 +1,33 @@
 # my-awesome-code-sharing
-collection of links, resources and ideas on code sharing for javascript projects
+collection of links, resources and ideas on code sharing for typescript/javascript projects
+
+## Developer eXperience
+ - [npm-local-development](https://www.npmjs.com/package/npm-local-development)
+ - Symlinking
+ - lerna
+ - yarn workspaces
+ - meta
+
+## Multiple repositories
+ - Meta
+    - [Library](https://github.com/mateodelnorte/meta)
+    - [npm plugin](https://github.com/mateodelnorte/meta-npm)
+    - [bump plugin](https://github.com/patrykzurawik/meta-bump)
+    - [github plugin](https://github.com/mateodelnorte/meta-gh)
+
+### Library creation
+ - [tsdx.io](https://tsdx.io/)
+
+## Monorepo
+
+- [mobile+web React monorepo example](https://github.com/jlcastillo/rn-react-mobile-web-monorepo)
+
+## React Native
+Since React Native metro packager does not follow symlinks some extra workaround setup needs to be done.
+
+A good solution is watching and copying files
+
+```bash
+onchange 'mylib/dist/*.js' -- cp ./mylib/dist/* ./myapp/node_modules/mylib
+```
+
