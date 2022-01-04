@@ -14,6 +14,12 @@ collection of links, resources and ideas on code sharing for typescript/javascri
     - [npm plugin](https://github.com/mateodelnorte/meta-npm)
     - [bump plugin](https://github.com/patrykzurawik/meta-bump)
     - [github plugin](https://github.com/mateodelnorte/meta-gh)
+ - private npm packages 
+    - hosted npm registry
+    - [npm private](https://docs.npmjs.com/about-private-packages)(paid) 
+    - [github packages](https://levelup.gitconnected.com/private-npm-packages-in-github-package-registry-fbfda43acab3)
+    - use git urls
+    
 
 ### Library creation
  - [tsdx.io](https://tsdx.io/)
