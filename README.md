@@ -2,10 +2,10 @@
 collection of links, resources and ideas on code sharing for typescript/javascript projects
 
 ## Table of contents
- - [Developer eXperience](#Developer)
- - [Multiple repositories](#Multiple)
+ - [Developer eXperience](#Developer-eXperience)
+ - [Multiple repositories](#Multiple-repositories)
  - [Monorepo](#Monorepo)
- - [React Native](#React)
+ - [React Native](#React-Native)
 
 Developer eXperience
 ====================
