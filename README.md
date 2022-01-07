@@ -7,6 +7,7 @@ Table of contents
  - [Monorepo](#Monorepo)
    - [Library creation](#Library-creation)
  - [React Native](#React-Native)
+ - [Additional References](#Additional-References)
 
 ## Developer eXperience
  - [npm-local-development](https://www.npmjs.com/package/npm-local-development)
@@ -44,3 +45,6 @@ A good solution is watching and copying files
 onchange 'mylib/dist/*.js' -- cp ./mylib/dist/* ./myapp/node_modules/mylib
 ```
 
+## Additional References
+these articles provide some comparisons of various approaches
+ - https://notes.burke.libbey.me/metarepo/#metarepo-architecture
